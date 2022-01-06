@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633133462830",
+    "firebase_url": "https://jumpjump-53563673.firebaseio.com",
+    "project_id": "jumpjump-53563673",
+    "storage_bucket": "jumpjump-53563673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633133462830:android:9f8773a73ef924b46136bf",
+        "android_client_info": {
+          "package_name": "com.Google.Jump_Jump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633133462830-vhlnkrc5af2g8a0lvc9r4pk48f4lo3ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGB1OB61L9VVvULDYLpI6FcBEFZ4UCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633133462830-b8604tn90ome1bjbqevqpe508povt0df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

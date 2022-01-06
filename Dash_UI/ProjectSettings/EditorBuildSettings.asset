@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: c7f4c36cdb87777469f5888348d8e206
+  - enabled: 1
+    path: Assets/Scenes/Shake It Up.unity
+    guid: f80e7834b1817bb4ab1c5e8707e94e22
+  - enabled: 1
+    path: Assets/Scenes/Feels Good.unity
+    guid: 0f2574585fc25a04db00a364c46a93d5
+  - enabled: 1
+    path: Assets/Scenes/Geometry Dubstep.unity
+    guid: 7494a0e60369bbe4ab991aa45144ed31
+  - enabled: 1
+    path: Assets/Scenes/Save Tonight.unity
+    guid: b74c1677d45c0ac49898d759ab9e5f07
+  m_configObjects: {}
